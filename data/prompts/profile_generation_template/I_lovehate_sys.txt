@@ -1,0 +1,16 @@
+Please create a profile of {CHARACTER} from {SERIES} in the following format, as he or she is depicted by the end of the series. No reasons attached please. If the information is not 100% sure, then write “Presumably (answer)”.
+
+ANSWER FORMAT:
+[Top 5 Things this character loves]
+- 
+- 
+- 
+- 
+- 
+
+[Top 5 Things this character hates]
+- 
+- 
+- 
+- 
+- 

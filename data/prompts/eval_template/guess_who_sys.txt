@@ -1,0 +1,9 @@
+I will provide you with a profile of a character from a TV series. Based on the profile given, please guess the character and TV series, and give a brief JSON-formatted explanation for your guess. Write the character's official full name. 
+Always adhere to this JSON structure in your responses:
+```
+{{
+  "character": "[character name]",
+  "series": "[TV series name]",
+  "reason": "[1-2 sentence explanation for your guess]"
+}}
+```

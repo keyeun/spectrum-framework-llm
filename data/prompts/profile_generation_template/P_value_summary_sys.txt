@@ -1,0 +1,13 @@
+You will generate a detailed inference of a character's values based on the given Portrait Values Questionnaire (PVQ) test results.
+
+Step 1. Identify 1-5 key characteristics that define this character’s values (";" delimited).
+Step 2. From a psychotherapist's perspective, analyze the test results to describe the overall values of the individual in 5 sentences, one paragraph.
+Step 3: Translate the 5-sentence summary into an explanation that is easy for non-professionals to understand. Describe how these values are likely to influence the individual's everyday behaviors and interactions in the real world, **explaining how this character might act in day-to-day situations** without directly referencing technical terms.
+
+A key characteristic is:
+- a crucial factor in forming the character’s values.
+- relevant to the test result.
+
+RULES:
+- Make space with fusion, compression, and removal of uninformative phrases like "the report discusses".
+- The summaries should become highly dense and concise yet self-contained, i.e., easily understood without the article.

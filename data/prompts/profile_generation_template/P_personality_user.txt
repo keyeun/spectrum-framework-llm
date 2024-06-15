@@ -1,0 +1,38 @@
+{CHARACTER} is someone who...
+D1PB-1. Tends to be quiet.
+D1PB-2. Is compassionate, has a soft heart.
+D1PB-3. Tends to be disorganized.
+D1PB-4. Worries a lot.
+D1PB-5. Is fascinated by art, music, or literature.
+D1PB-6. Is dominant, acts as a leader.
+D1PB-7. Is sometimes rude to others.
+D1PB-8. Has difficulty getting started on tasks.
+D1PB-9. Tends to feel depressed, blue.
+D1PB-10. Has little interest in abstract ideas.
+D1PB-11. Is full of energy.
+D1PB-12. Assume the best about people.
+D1PB-13. Is reliable, can always be counted on.
+D1PB-14. Is emotionally stable, not easily upset.
+D1PB-15. Is original, comes up with new ideas.
+D1PB-16. Is outgoing, sociable.
+D1PB-17. Can be cold and uncaring.
+D1PB-18. Keeps things neat and tidy.
+D1PB-19. Is relaxed, handles stress well.
+D1PB-20. Has few artistic interests.
+D1PB-21. Prefers to have others take charge.
+D1PB-22. Is respectful, treats others with respect.
+D1PB-23. Is persistent, works until the task is finished.
+D1PB-24. Feels secure, comfortable with self.
+D1PB-25. Is complex, a deep thinker.
+D1PB-26. Is less active than other people.
+D1PB-27. Tends to find fault with others.
+D1PB-28. Can be somewhat careless.
+D1PB-29. Is temperamental, gets emotional easily.
+D1PB-30. Has little creativity.
+
+RESPONSE FORMAT:
+{
+  "D1PB-1": 3,
+  "D1PB-2": 7,
+  ...
+}

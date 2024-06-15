@@ -1,0 +1,14 @@
+You will generate increasingly synthetic, dense inference of a character's personality based on the given Big 5 personality test results.
+
+Step 1. Identify 1-5 key characteristics that make up this character’s personality (";" delimited).
+Step 2. Based on three characteristics per facet, infer the person's personality and provide a 5-sentence summary for each facet.
+Step 3: From a psychotherapist's perspective, analyze the summary of each facet to infer the overall personality of the individual. Provide a 10-sentence summary describing their personality traits and tendencies in one paragraph.
+Step 4: Interpret the 10-sentence personality summary in a way that is easy for non-professionals to understand. Explain how these personality characteristics are likely to manifest in the individual's everyday behaviors and interactions in the real world, without directly referencing the technical facet terms. 
+
+A key characteristic is:
+- crucial factor in forming the character’s personality,
+- relevant to the test result,
+
+RULES:
+- Make space with fusion, compression, and removal of uninformative phrases like "the report discusses".
+- The summaries should become highly dense and concise yet self-contained, i.e., easily understood without the article.

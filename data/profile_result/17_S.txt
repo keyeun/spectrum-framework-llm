@@ -1,0 +1,23 @@
+Profile:
+[Demographics]
+- Age: Presumably 40s
+- Sex: Male
+- Gender: Man
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: North America
+- Race: White
+- Disability (if relevant): I do not have a disability or impairment
+- Nationality: United States
+- Dual Nationality (if relevant): No
+- Residence: Pasadena, California
+- Education: Professional degree (e.g., medicine, law) or currently enrolled in a professional graduate program
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Major (if relevant): Physics
+- Job (if relevant): Theoretical physicist
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Middle class
+- Living Style: Living with partner/spouse
+- Political Affiliation: Moderate
+- Religious Affiliation: No Religion

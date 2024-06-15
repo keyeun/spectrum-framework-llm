@@ -1,0 +1,23 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: Presumably 40s
+- Sex: Male
+- Gender: Man
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: North America
+- Race: White
+- Disability (if relevant): I do not have a disability or impairment
+- Nationality: United States
+- Dual Nationality (if relevant): No
+- Residence: Albuquerque, New Mexico
+- Education: Bachelor's degree (4-year university) or currently enrolled
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Job (if relevant): DEA Agent
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Middle class
+- Living Style: Living with partner/spouse
+- Political Affiliation: Conservative
+- Religious Affiliation: Prefer not to say

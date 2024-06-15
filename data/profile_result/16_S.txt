@@ -1,0 +1,24 @@
+Profile:
+
+[Demographics]
+- Age: Presumably 38-39
+- Sex: Male
+- Gender: Man
+- Sexual Orientation: Straight
+- Ethnicity: Western Europe
+- Race: White
+- Disability: I do not have a disability or impairment
+- Nationality: United States
+- Dual Nationality: No
+- Residence: Pasadena, California
+- Education: General graduate degree
+- Occupation: Full-time employed
+- Major: Experimental Physics
+- Job: Experimental Physicist at Caltech
+- Perceived Income: $5,833 to less than $7,500 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Middle class
+- Living Style: Living with partner/spouse
+- Political Affiliation: Liberal
+- Religious Affiliation: No Religion

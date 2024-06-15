@@ -1,0 +1,23 @@
+Profile:
+[Demographics]
+
+- Age: Presumably 40s
+- Sex: Female
+- Gender: Woman
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: South America
+- Race: Hispanic or Latino
+- Nationality: Colombia, United States
+- Dual Nationality: Yes
+- Nationality More Important: Colombia
+- Residence: Los Angeles, California
+- Education: Below High school diploma
+- Occupation: Full-time employed
+- Job: Various roles including entrepreneurship and personal projects
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Far above average
+- Income Satisfaction: Very satisfied
+- Perceived Class: Upper class
+- Living Style: Living with partner/spouse, Living with children
+- Political Affiliation: Unsure or Prefer Not to Say
+- Religious Affiliation: Catholic

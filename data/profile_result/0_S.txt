@@ -1,0 +1,24 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: Presumably 52
+- Sex: Male
+- Gender: Man
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: Western Europe
+- Race: White
+- Disability (if relevant): I do not have a disability or impairment
+- Nationality: United States
+- Dual Nationality (if relevant): No
+- Residence: Albuquerque, New Mexico
+- Education: General graduate degree
+- Occupation: Self-employed
+- Major (if relevant): N/A
+- Job (if relevant): Manufacturer and distributor of methamphetamine
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Far above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Upper class
+- Living Style: Living with partner/spouse
+- Political Affiliation: Moderate
+- Religious Affiliation: No Religion

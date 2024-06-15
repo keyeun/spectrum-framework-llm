@@ -1,0 +1,30 @@
+{CHARACTER} is someone ...
+
+D2LP-1. Thinking up new ideas and being creative is important to the person. The person likes to do things in their own original way.
+D2LP-2. It is important for the person to be rich. The person wants to have a lot of money and expensive things.
+D2LP-3. The person thinks it is important that every person in the world be treated equally. The person believes everyone should have equal opportunities in life.
+D2LP-4. It's important to the person to show their abilities. The person wants people to admire what they do.
+D2LP-5. It is important to the person to live in secure surroundings. The person avoids anything that might endanger their safety.
+D2LP-6. The person likes surprises and is always looking for new things to do. The person thinks it is important to do lots of different things in life.
+D2LP-7. The person believes that people should do what they're told. The person thinks people should follow rules at all times, even when no one is watching.
+D2LP-8. It is important to the person to listen to people who are different from them. Even when the person disagrees with people, they still want to understand them.
+D2LP-9. It is important to the person to be humble and modest. The person tries not to draw attention to themselves.
+D2LP-10. Having a good time is important to the person. The person likes to “spoil” themselves.
+D2LP-11. It is important to the person to make their own decisions about what they do. The person likes to be free and not depend on others.
+D2LP-12. It's very important to the person to help the people around them. The person wants to care for their well-being.
+D2LP-13. Being very successful is important to the person. The person hopes people will recognize their achievements.
+D2LP-14. It is important to the person that the government insure their safety against all threats. The person wants the state to be strong so it can defend its citizens.
+D2LP-15. The person looks for adventures and likes to take risks. The person wants to have an exciting life.
+D2LP-16. It is important to the person always to behave properly. The person wants to avoid doing anything people would say is wrong.
+D2LP-17. It is important to the person to get respect from others. The person wants people to do what they say.
+D2LP-18. It is important to the person to be loyal to their friends. The person wants to devote themselves to people close to them.
+D2LP-19. The person strongly believes that people should care for nature. Looking after the environment is important to them.
+D2LP-21. Tradition is important to the person. The person tries to follow the customs handed down by their religion or their family.
+D2LP-22. The person seeks every chance they can to have fun. It is important to the person to do things that give them pleasure.
+
+RESPONSE FORMAT:
+{
+  "D2LP-1": 3,
+  "D2LP-2": 7,
+  ...
+}

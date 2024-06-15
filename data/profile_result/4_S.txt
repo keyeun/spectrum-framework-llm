@@ -1,0 +1,24 @@
+Profile:
+[Demographics]
+
+- Age: Presumably 30s
+- Sex: Male
+- Gender: Man
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: Western Europe
+- Race: White
+- Disability (if relevant): I do not have a disability or impairment
+- Nationality: United States
+- Dual Nationality (if relevant): No
+- Residence: New York City, NY
+- Education: Bachelor's degree (4-year university) or currently enrolled
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Major (if relevant): Not applicable 
+- Job (if relevant): Advertising
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Middle class
+- Living Style: Living with spouse
+- Political Affiliation: Moderate
+- Religious Affiliation: No Religion

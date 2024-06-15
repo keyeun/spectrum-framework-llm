@@ -1,0 +1,185 @@
+1. What is your current age? (In the latest show)
+
+2. How was your sex assigned at birth?
+
+- Male
+- Female
+- Intersex
+- Prefer not to say
+
+3. Which gender most closely identifies with you?
+
+- Woman
+- Man
+- agender
+- androgyne
+- demigender
+- genderqueer or gender fluid
+- questioning or unsure
+- trans man
+- trans woman
+- additional gender category/identity: please specify
+- prefer not to disclose
+
+4. What do you consider to be your sexual orientation?
+
+- straight (heterosexual)
+- asexual
+- bisexual
+- gay straight (heterosexual)
+- lesbian
+- pansexual
+- queer
+- questioning or unsure
+- an identity not listed: please specify
+- prefer not to disclose
+
+5. What are your ethnic origins or ancestry? Please select ALL geographic areas from which your family’s ancestors first originated.
+
+- Western Europe
+- Eastern Europe
+- North Africa
+- Sub-Saharan Africa
+- West Asia / Middle East
+- South and Southeast Asia
+- East and Central Asia
+- Pacific / Oceania
+- North America
+- Central America and Caribbean
+- South America
+- Prefer not to disclose
+
+6. How would you identify yourself in terms of race? Please select ALL the groups that apply to you.
+
+- Asian (e.g., Indian, Chinese, Japanese, Korean, Singaporean)
+- Pacific Islander (e.g., New Zealand Maori, Samoan, Native Hawaiian)
+- Indigenous (e.g., North American Cherokee, South American Quechua, Aboriginal, or Torres Strait Islander)
+- Middle Eastern or North African
+- Black
+- Hispanic or Latino
+- White
+- Prefer not to disclose
+
+7. Do you have a disability? Please select ALL that apply to you.
+
+- I do not have a disability or impairment
+- Deaf/deaf or have serious difficulty hearing
+- Blind or have serious difficulty seeing, even when wearing glasses
+- Mobility limitations including serious difficulty walking or climbing stairs
+- Motor limitations including manual dexterity
+- Learning disability
+- Neurodiverse
+- Speech or language impairment
+- Chronic illness that is neurological, physical, or a mental health diagnosis
+- Temporary impairment
+- Other types of disability
+- Prefer not to disclose
+
+8. What country were you born in?
+
+- South Korea
+- United States
+- Country not listed: please specify
+
+9. Do you have a dual nationality?
+
+- Yes
+- No
+
+9-1. If you have a dual nationality, please indicate which nationality holds greater importance to you.
+
+10. Where do you currently live? If you live in the United States, please write your City and State.
+
+11. What is your highest level of education?
+
+- Below High school diploma
+- High school diploma/GED
+- Associate's degree (2-year college) or currently enrolled
+- Bachelor's degree (4-year university) or currently enrolled
+- General graduate degree or currently enrolled in a general graduate program
+- Professional degree (e.g., medicine, law) or currently enrolled in a professional graduate program
+
+12.  What is your employment status?
+
+- Full-time employed (working 35 or more hours per week)
+- Part-time employed (working less than 35 hours per week)
+- Self-employed (owning a business or working as a freelancer)
+- Contract/temporary (engaged in work on a non-permanent basis)
+- Unemployed (currently not working but looking for work)
+- Retired (not currently working and not seeking employment)
+- Student (full-time or part-time, not seeking employment)
+- Unable to work (due to disability, retirement, or other reasons)
+- Prefer not to say
+
+(Only if answer for 12 is Student) 12-1. What is your major?
+
+(Only if answer for 12 is either full-time /part-time/self-employed, contract/temporary) 12-2. Please describe your main job responsibilities.
+
+13. What is your average monthly **household** income?
+
+- Less than $833 USD per month
+- $833 to less than $2,500 USD per month
+- $2,500 to less than $4,166 USD per month
+- $4,166 to less than $5,833 USD per month
+- $5,833 to less than $7,500 USD per month
+- More than $7,500 USD per month
+- Don’t Know
+
+14. Compared with American families in general, ****would you say **your family income** is far below average, below average, above average, or far above average? It is okay to make your best guess.
+
+- Far below average
+- Below average
+- Average
+- Above average
+- Far above average
+
+15. ****How satisfied are you with your current financial situation?
+
+- Not satisfied at all
+- Somewhat dissatisfied
+- More or less satisfied
+- Pretty well satisfied
+- Very satisfied
+
+16. If you were asked to choose one of four names **for your social class**, which would you say you belong to: the lower class, the working class, the middle class, or the upper class?
+
+- Lower class
+- Working class
+- Middle class
+- Upper class
+- Unsure or Prefer Not to Say
+
+17. Who are you currently living with? Please select all that apply. There can be multiple answers.
+
+- Living alone
+- Living with siblings
+- Living with parents
+- Living with grandparents
+- Living with relatives
+- Living with friends/roommates
+- Living with children
+- Living with partner/spouse
+
+18. Political discussions frequently mention liberal and conservative viewpoints. . On a five-point scale representing political views that people might hold, where would you place yourself?
+
+- Very conservative
+- Conservative
+- Moderate
+- Liberal
+- Very Liberal
+- Unsure or Prefer Not to Say
+
+19. What is your religious preference?
+
+- No Religion
+- Protestant
+- Catholic
+- Jewish
+- Muslim/Islam
+- Orthodox-Christian
+- Buddhist
+- Hindu
+- Mormon/Latter-day Saints
+- Other Christian religion
+- Other non-Christian religion
+- Unsure or Prefer not to say

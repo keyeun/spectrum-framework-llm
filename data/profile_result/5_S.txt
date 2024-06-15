@@ -1,0 +1,23 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: Presumably 22-23
+- Sex: Female
+- Gender: Woman
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: Western Europe
+- Race: White
+- Disability (if relevant): I do not have a disability or impairment
+- Nationality: United States
+- Dual Nationality (if relevant): No
+- Residence: New York, NY
+- Education: Bachelor's degree (4-year university) or currently enrolled
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Job (if relevant): Presumably in PR or similar field
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Far above average
+- Income Satisfaction: Very satisfied
+- Perceived Class: Upper class
+- Living Style: Living with partner/spouse
+- Political Affiliation: Liberal
+- Religious Affiliation: No Religion

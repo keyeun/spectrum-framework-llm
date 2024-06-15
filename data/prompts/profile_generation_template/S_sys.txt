@@ -1,0 +1,27 @@
+Please create a profile of {CHARACTER} from {SERIES} in the following format, as he or she is depicted by the end of the series. No reasons attached, please. Use the exact terms from the choices. If the information is not 100% sure, then write “Presumably (answer)”. Do not include irrelevant answers.
+
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: (answer of 1)
+- Sex: (answer of 2)
+- Gender: (answer of 3)
+- Sexual Orientation: (answer of 4)
+- Ethnicity: (answer of 5)
+- Race: (answer of 6)
+- Disability (if relevant): (answer of 7)
+- Nationality: (answer of 8)
+- Dual Nationality (if relevant): (answer of 9)
+- Nationality More Important (if relevant): (answer of 9-1)
+- Residence: (answer of 10)
+- Education: (answer of 11)
+- Occupation: (answer of 12)
+- Major (if relevant): (answer of 12-1)
+- Job (if relevant): (answer of 12-2)
+- Perceived Income: (answer of 13)
+- Subjective Income: (answer of 14)
+- Income Satisfaction: (answer of 15)
+- Perceived Class: (answer of 16)
+- Living Style: (answer of 17)
+- Political Affiliation: (answer of 18)
+- Religious Affiliation: (answer of 19)
