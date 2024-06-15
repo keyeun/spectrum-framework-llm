@@ -6,8 +6,8 @@ This repository contains the code and data for our paper titled "SPI Framework f
 
 ## Dataset
 ### Prompts
-- `data/prompts/profile_generation_template`: Fictional Character의 SPI dataset을 구축하기 위한 prompt txt file
-- `data/prompts/eval_template`: TST와 Guess Who task를 수행하는 system prompt txt file
+- `data/prompts/profile_generation_template`: Prompt text file for generating the SPI dataset for fictional characters.
+- `data/prompts/eval_template`: System prompt text file for performing TST and Guess Who tasks.
 ### Profile Generation Results
 - `data/profile_result/`: Contains the SPI dataset for the 18 selected fictional characters. File naming convention:
   - `{id}_S.txt`: Demographics
@@ -40,5 +40,4 @@ The table below lists the characters and their corresponding IDs:
 | 17  | The Big Bang Theory     | Sheldon Cooper         |
 
 ## Code
-BFI와 PVQ를 Scoring하는 함수들을 포함한다. 
-OPEN AI API를 활용하여 JSON format을 출력하는 함수들을 포함한다.
+- We includes functions for scoring BFI and PVQ, as well as functions utilizing the OpenAI API to output results in JSON format.
