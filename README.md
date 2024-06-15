@@ -2,7 +2,7 @@
 ----
 ## Overview
 
-This repository contains the code and data for our paper titled "SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent". The SPeCtrum framework is a grounded and optimal approach for generating realistic individual personas using large language models (LLMs). Our framework incorporates a comprehensive set of personal attributes, including demographics, personality traits, values, and individualized information, to create well-rounded and believable character profiles.
+This repository contains the code and data for our paper titled **"SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent"**. The SPeCtrum framework is a grounded and optimal approach for generating realistic individual personas using large language models (LLMs). Our framework incorporates a comprehensive set of personal attributes, including demographics, personality traits, values, and personal life context, to create well-rounded and believable character profiles.
 
 ## Dataset
 ### Prompts
@@ -13,8 +13,8 @@ This repository contains the code and data for our paper titled "SPeCtrum: A Gro
   - `{id}_S.txt`: Demographics
   - `{id}_P_personality.txt`: Personality (BFI-2-S)
   - `{id}_P_value.txt`: Values (PVQ)
-  - `{id}_C_behavior.txt`: Individualized information (typical behavior patterns)
-  - `{id}_C_lovehate.txt`: Individualized information (preferences)
+  - `{id}_C_behavior.txt`: Personal Life Context (typical behavior patterns)
+  - `{id}_C_lovehate.txt`: Personal Life Context (preferences)
 
 The table below lists the characters and their corresponding IDs:
 
