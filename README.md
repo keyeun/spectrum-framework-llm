@@ -1,20 +1,20 @@
-# SPI Framework for Realistic Persona Generation
+# SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent
 ----
 ## Overview
 
-This repository contains the code and data for our paper titled "SPI Framework for Realistic Persona Generation using Large Language Models." The SPI framework is a grounded and optimal approach for generating realistic individual personas using large language models (LLMs). Our framework incorporates a comprehensive set of personal attributes, including demographics, personality traits, values, and individualized information, to create well-rounded and believable character profiles.
+This repository contains the code and data for our paper titled "SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent". The SPeCtrum framework is a grounded and optimal approach for generating realistic individual personas using large language models (LLMs). Our framework incorporates a comprehensive set of personal attributes, including demographics, personality traits, values, and individualized information, to create well-rounded and believable character profiles.
 
 ## Dataset
 ### Prompts
 - `data/prompts/profile_generation_template`: Prompt text file for generating the SPI dataset for fictional characters.
 - `data/prompts/eval_template`: System prompt text file for performing TST and Guess Who tasks.
 ### Profile Generation Results
-- `data/profile_result/`: Contains the SPI dataset for the 18 selected fictional characters. File naming convention:
+- `data/profile_result/`: Contains the SPC dataset for the 18 selected fictional characters. File naming convention:
   - `{id}_S.txt`: Demographics
   - `{id}_P_personality.txt`: Personality (BFI-2-S)
   - `{id}_P_value.txt`: Values (PVQ)
-  - `{id}_I_behavior.txt`: Individualized information (typical behavior patterns)
-  - `{id}_I_lovehate.txt`: Individualized information (preferences)
+  - `{id}_C_behavior.txt`: Individualized information (typical behavior patterns)
+  - `{id}_C_lovehate.txt`: Individualized information (preferences)
 
 The table below lists the characters and their corresponding IDs:
 
