@@ -35,5 +35,4 @@ def generate_pvq_prompt(data):
             pvq_template += "- {0} is of utmost importance and is central to this character's life. {0} guides their actions, decisions, and priorities.\n".format(key)
         else:
             pvq_template += "{0}: Score not in the expected range.\n".format(key)
-  
     return pvq_template

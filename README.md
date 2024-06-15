@@ -6,7 +6,7 @@ This repository contains the code and data for our paper titled "SPeCtrum: A Gro
 
 ## Dataset
 ### Prompts
-- `data/prompts/profile_generation_template`: Prompt text file for generating the SPI dataset for fictional characters.
+- `data/prompts/profile_generation_template`: Prompt text file for generating the SPC dataset for fictional characters.
 - `data/prompts/eval_template`: System prompt text file for performing TST and Guess Who tasks.
 ### Profile Generation Results
 - `data/profile_result/`: Contains the SPC dataset for the 18 selected fictional characters. File naming convention:
