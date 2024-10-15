@@ -1,0 +1,21 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: Presumably 30s
+- Sex: Female
+- Gender: Woman
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: North America
+- Race: White
+- Nationality: Canadian
+- Residence: New York, NY, USA
+- Education: High school diploma/GED
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Job: News Anchor
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Middle class
+- Living Style: Living alone
+- Political Affiliation: Conservative
+- Religious Affiliation: Unsure or Prefer not to say

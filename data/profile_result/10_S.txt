@@ -1,23 +1,24 @@
 Profile:
-[Demographics]
+[Demographics] Demographics describe who this character is.
 
-- Age: Presumably 40s
-- Sex: Female
-- Gender: Woman
+- Age: 21-22
+- Sex: Male
+- Gender: Man
 - Sexual Orientation: Straight (heterosexual)
-- Ethnicity: South America
-- Race: Hispanic or Latino
-- Nationality: Colombia, United States
-- Dual Nationality: Yes
-- Nationality More Important: Colombia
-- Residence: Los Angeles, California
-- Education: Below High school diploma
-- Occupation: Full-time employed
-- Job: Various roles including entrepreneurship and personal projects
+- Ethnicity: Western Europe
+- Race: White
+- Disability (if relevant): I do not have a disability or impairment
+- Nationality: United States
+- Dual Nationality (if relevant): No
+- Residence: New York, New York
+- Education: High school diploma/GED
+- Occupation: Self-employed (owning a business or working as a freelancer)
+- Major (if relevant):
+- Job (if relevant): Business magnate, Hotel Owner
 - Perceived Income: More than $7,500 USD per month
 - Subjective Income: Far above average
 - Income Satisfaction: Very satisfied
 - Perceived Class: Upper class
-- Living Style: Living with partner/spouse, Living with children
-- Political Affiliation: Unsure or Prefer Not to Say
-- Religious Affiliation: Catholic
+- Living Style: Living with partner/spouse
+- Political Affiliation: Moderate
+- Religious Affiliation: No religion

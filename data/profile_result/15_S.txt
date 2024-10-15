@@ -1,21 +1,25 @@
 Profile:
 [Demographics] Demographics describe who this character is.
 
-- Age: Presumably mid-30s
+- Age: Presumably early 21-22
 - Sex: Female
 - Gender: Woman
 - Sexual Orientation: Straight (heterosexual)
-- Ethnicity: Western Europe
-- Race: White
+- Ethnicity: North America
+- Race: Presumably White, Black
+- Disability (if relevant): I do not have a disability or impairment
 - Nationality: United States
-- Residence: Los Angeles, California
-- Education: General graduate degree or currently enrolled in a general graduate program
+- Dual Nationality (if relevant): No
+- Nationality More Important (if relevant): N/A
+- Residence: Brooklyn, New York
+- Education: Bachelor's degree (4-year university) or currently enrolled
 - Occupation: Full-time employed (working 35 or more hours per week)
-- Job: Middle school principal
-- Perceived Income: $4,166 to less than $5,833 USD per month
-- Subjective Income: Average
-- Income Satisfaction: Pretty well satisfied
+- Major (if relevant): N/A
+- Job (if relevant): Filmmaker
+- Perceived Income: $2,500 to less than $4,166 USD per month
+- Subjective Income: Below average
+- Income Satisfaction: Somewhat dissatisfied
 - Perceived Class: Middle class
-- Living Style: Living with partner/spouse
+- Living Style: Living alone
 - Political Affiliation: Liberal
 - Religious Affiliation: No Religion

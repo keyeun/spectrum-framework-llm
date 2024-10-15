@@ -1,0 +1,21 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: Mid-30s
+- Sex: Male
+- Gender: Man
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: Sub-Saharan Africa 
+- Race: Black 
+- Nationality: United States
+- Residence: Los Angeles, California
+- Education: Bachelor's degree (4-year university) or currently enrolled
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Job: Police officer
+- Perceived Income: $4,166 to less than $5,833 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Middle class
+- Living Style: Living with partner/spouse
+- Political Affiliation: Moderate
+- Religious Affiliation: Unsure or Prefer not to say 

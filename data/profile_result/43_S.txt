@@ -1,0 +1,21 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: Presumably 30s
+- Sex: Female
+- Gender: Woman
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: South and Southeast Asia
+- Race: Asian (e.g., Indian, Chinese, Japanese, Korean, Singaporean)
+- Nationality: United States
+- Residence: New York City
+- Education: High school diploma/GED
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Job: Owner of a modeling agency, Bartender
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Very satisfied
+- Perceived Class: Upper class
+- Living Style: Living with partner/spouse, Living with Children
+- Political Affiliation: Moderate
+- Religious Affiliation: No Religion

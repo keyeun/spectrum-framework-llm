@@ -1,24 +1,25 @@
 Profile:
-[Demographics]
+[Demographics] Demographics describe who this character is.
 
-- Age: Presumably 30s
+- Age: Presumably late 37-39
 - Sex: Male
 - Gender: Man
-- Sexual Orientation: Straight (heterosexual)
-- Ethnicity: Western Europe
-- Race: White
-- Disability (if relevant): I do not have a disability or impairment
-- Nationality: United States
+- Sexual Orientation: straight (heterosexual)
+- Ethnicity: South and Southeast Asia
+- Race: Asian (e.g., Indian, Chinese, Japanese, Korean, Singaporean)
+- Disability (if relevant): I do not have a disability or impairment 
+- Nationality: Country not listed: India
 - Dual Nationality (if relevant): No
-- Residence: New York City, NY
-- Education: Bachelor's degree (4-year university) or currently enrolled
+- Nationality More Important (if relevant): (N/A)
+- Residence: Pasadena, CA, United States
+- Education: General graduate degree or currently enrolled in a general graduate program
 - Occupation: Full-time employed (working 35 or more hours per week)
-- Major (if relevant): Not applicable 
-- Job (if relevant): Advertising
-- Perceived Income: More than $7,500 USD per month
+- Major (if relevant): Astrophysics
+- Job (if relevant): Astrophysicist
+- Perceived Income: $5,833 to less than $7,500 USD per month
 - Subjective Income: Above average
 - Income Satisfaction: Pretty well satisfied
 - Perceived Class: Middle class
-- Living Style: Living with spouse
+- Living Style: Living alone
 - Political Affiliation: Moderate
-- Religious Affiliation: No Religion
+- Religious Affiliation: Hindu

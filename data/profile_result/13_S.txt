@@ -1,21 +1,24 @@
 Profile:
-[Demographics]
+[Demographics] Demographics describe who this character is.
 
-- Age: Presumably late 30s
+- Age: Presumably 45-50
 - Sex: Male
 - Gender: Man
 - Sexual Orientation: Straight (heterosexual)
-- Ethnicity: Eastern Europe
+- Ethnicity: Western Europe
 - Race: White
+- Disability (if relevant): I do not have a disability or impairment
 - Nationality: United States
-- Residence: Los Angeles, California
-- Education: Bachelor's degree (4-year university) or currently enrolled
-- Occupation: Full-time employed (working 35 or more hours per week)
-- Job: Marketing associate
-- Perceived Income: More than $7,500 USD per month
-- Subjective Income: Above average
-- Income Satisfaction: Pretty well satisfied
-- Perceived Class: Upper class
-- Living Style: Living with partner/spouse
-- Political Affiliation: Moderate
-- Religious Affiliation: Jewish
+- Dual Nationality (if relevant): No
+- Residence: Brooklyn, New York
+- Education: High school diploma/GED
+- Occupation: Self-employed (owning a business or working as a freelancer)
+- Major (if relevant): N/A
+- Job (if relevant): Art gallery owner
+- Perceived Income: $5,833 to less than $7,500 USD per month
+- Subjective Income: Below average
+- Income Satisfaction: More or less satisfied
+- Perceived Class: Middle class
+- Living Style: Living alone, Living with partner/spouse
+- Political Affiliation: Liberal
+- Religious Affiliation: No Religion

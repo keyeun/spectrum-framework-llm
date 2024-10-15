@@ -1,21 +1,24 @@
 Profile:
 [Demographics] Demographics describe who this character is.
 
-- Age: Presumably 40-45
+- Age: Presumably 21
 - Sex: Male
 - Gender: Man
-- Sexual Orientation: Gay
-- Ethnicity: North America
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: Western Europe
 - Race: White
+- Disability (if relevant): I do not have a disability or impairment
 - Nationality: United States
-- Residence: Los Angeles, California
-- Education: Professional degree (e.g., medicine, law) or currently enrolled in a professional graduate program
+- Dual Nationality (if relevant): No
+- Residence: New York, New York
+- Education: Bachelor's degree (4-year university) or currently enrolled
 - Occupation: Full-time employed (working 35 or more hours per week)
-- Job: Attorney
+- Major (if relevant): Not applicable
+- Job (if relevant): Owner of a newspaper
 - Perceived Income: More than $7,500 USD per month
-- Subjective Income: Above average
+- Subjective Income: Far above average
 - Income Satisfaction: Pretty well satisfied
-- Perceived Class: Middle class
-- Living Style: Living with partner/spouse, Living with children
-- Political Affiliation: Liberal
+- Perceived Class: Upper class
+- Living Style: Living alone
+- Political Affiliation: Moderate
 - Religious Affiliation: No Religion

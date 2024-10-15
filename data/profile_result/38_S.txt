@@ -1,0 +1,21 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: 23
+- Sex: Female
+- Gender: Woman
+- Sexual Orientation: Presumably straight (heterosexual)
+- Ethnicity: Western Europe
+- Race: White
+- Nationality: United States
+- Residence: Chicago, Illinois
+- Education: Bachelor's degree (4-year university) or currently enrolled
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Job: Researcher
+- Perceived Income: Presumably $2,500 to less than $4,166 USD per month
+- Subjective Income: Below average
+- Income Satisfaction: Somewhat dissatisfied
+- Perceived Class: Middle class
+- Living Style: Presumably Living alone
+- Political Affiliation: Liberal
+- Religious Affiliation: No Religion

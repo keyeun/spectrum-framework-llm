@@ -1,23 +1,24 @@
 Profile:
 [Demographics] Demographics describe who this character is.
 
-- Age: Presumably around 24-26 years by the end of the series
+- Age: Presumably 39-40
 - Sex: Male
 - Gender: Man
 - Sexual Orientation: Straight (heterosexual)
-- Ethnicity: North America
+- Ethnicity: Western Europe
 - Race: White
 - Disability (if relevant): I do not have a disability or impairment
 - Nationality: United States
 - Dual Nationality (if relevant): No
-- Residence: Albuquerque, New Mexico
-- Education: Below High school diploma
+- Residence: Pasadena, California
+- Education: General graduate degree
 - Occupation: Full-time employed (working 35 or more hours per week)
-- Job (if relevant): Methamphetamine manufacturer and dealer
-- Perceived Income: $2,500 to less than $4,166 USD per month
-- Subjective Income: Below average
-- Income Satisfaction: Not satisfied at all
-- Perceived Class: Working class
-- Living Style: Living alone
-- Political Affiliation: Unsure or Prefer Not to Say
+- Major (if relevant): Physics
+- Job (if relevant): Theoretical physicist
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Middle class
+- Living Style: Living with partner/spouse
+- Political Affiliation: Moderate
 - Religious Affiliation: No Religion

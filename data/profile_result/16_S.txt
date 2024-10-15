@@ -1,24 +1,24 @@
 Profile:
+[Demographics] Demographics describe who this character is.
 
-[Demographics]
-- Age: Presumably 38-39
-- Sex: Male
-- Gender: Man
-- Sexual Orientation: Straight
-- Ethnicity: Western Europe
+- Age: Presumably 35-40
+- Sex: Female
+- Gender: Woman
+- Sexual Orientation: Presumably straight (heterosexual)
+- Ethnicity: Eastern Europe
 - Race: White
-- Disability: I do not have a disability or impairment
-- Nationality: United States
-- Dual Nationality: No
-- Residence: Pasadena, California
-- Education: General graduate degree
-- Occupation: Full-time employed
-- Major: Experimental Physics
-- Job: Experimental Physicist at Caltech
-- Perceived Income: $5,833 to less than $7,500 USD per month
-- Subjective Income: Above average
+- Disability (if relevant): I do not have a disability or impairment
+- Nationality: Country not listed: Poland
+- Dual Nationality (if relevant): Presumably No
+- Residence: New York, NY
+- Education: Presumably High school diploma/GED
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Major (if relevant): Not applicable
+- Job (if relevant): Housekeeper
+- Perceived Income: $2,500 to less than $4,166 USD per month
+- Subjective Income: Average
 - Income Satisfaction: Pretty well satisfied
-- Perceived Class: Middle class
-- Living Style: Living with partner/spouse
-- Political Affiliation: Liberal
-- Religious Affiliation: No Religion
+- Perceived Class: Working class
+- Living Style: Living with partner/spouse, Living wiht children
+- Political Affiliation: Moderate
+- Religious Affiliation: Catholic

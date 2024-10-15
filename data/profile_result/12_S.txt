@@ -1,20 +1,24 @@
 Profile:
 [Demographics] Demographics describe who this character is.
 
-- Age: Over 70
-- Sex: Male
-- Gender: Man
+- Age: Presumably early 50s
+- Sex: Female
+- Gender: Woman
 - Sexual Orientation: Straight (heterosexual)
-- Ethnicity: North America
+- Ethnicity: Western Europe
 - Race: White
+- Disability (if relevant): I do not have a disability or impairment
 - Nationality: United States
-- Residence: Los Angeles, California
-- Education: High school diploma/GED
-- Occupation: Retired (not currently working and not seeking employment)
+- Dual Nationality (if relevant): No
+- Residence: New York, NY
+- Education: Bachelor's degree (4-year university) or currently enrolled
+- Occupation: Unemployed (currently not working but looking for work)
+- Major (if relevant): N/A
+- Job (if relevant): N/A
 - Perceived Income: More than $7,500 USD per month
 - Subjective Income: Far above average
 - Income Satisfaction: Very satisfied
 - Perceived Class: Upper class
-- Living Style: Living with partner/spouse, Living with children
+- Living Style: Living with partner/spouse
 - Political Affiliation: Moderate
-- Religious Affiliation: Prefer not to say
+- Religious Affiliation: No Religion

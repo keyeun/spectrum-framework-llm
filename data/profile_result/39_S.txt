@@ -1,0 +1,22 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: 12-13
+- Sex: Female
+- Gender: Woman
+- Sexual Orientation: Presumably straight (heterosexual)
+- Ethnicity: South and Southeast Asia
+- Race: Asian (e.g., Indian, Chinese, Japanese, Korean, Singaporean)
+- Nationality: United States, Vietnam
+- Dual Nationality: Yes
+- Nationality More Important: United States
+- Residence: Los Angeles, California
+- Education: Below High school diploma
+- Occupation: Student (full-time or part-time, not seeking employment)
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Far above average
+- Income Satisfaction: Very satisfied
+- Perceived Class: Upper class
+- Living Style: Living with parents
+- Political Affiliation: Liberal
+- Religious Affiliation: No Religion

@@ -1,0 +1,21 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: Late 30s to Early 40s
+- Sex: Male
+- Gender: Man
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: Presumably Western Europe
+- Race: White
+- Nationality: United States
+- Residence: New York, NY
+- Education: Professional degree (e.g., medicine, law) or currently enrolled in a professional graduate program
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Job: Architect, Professor
+- Perceived Income: Presumably $4,166 to less than $5,833 USD per month
+- Subjective Income: Average
+- Income Satisfaction: More or less satisfied
+- Perceived Class: Middle class
+- Living Style: Living with children, Living with partner/spouse
+- Political Affiliation: Presumably Moderate
+- Religious Affiliation: Presumably No Religion

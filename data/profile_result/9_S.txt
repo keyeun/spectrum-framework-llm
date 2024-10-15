@@ -1,21 +1,24 @@
 Profile:
 [Demographics] Demographics describe who this character is.
 
-- Age: Presumably late 30s
-- Sex: Male
-- Gender: Man
+- Age: Presumably 23
+- Sex: Female
+- Gender: Woman
 - Sexual Orientation: Straight (heterosexual)
-- Ethnicity: North America
+- Ethnicity: Western Europe
 - Race: White
+- Disability (if relevant): I do not have a disability or impairment
 - Nationality: United States
-- Residence: New York, NY
-- Education: Presumably Bachelor's degree (4-year university) or currently enrolled
+- Dual Nationality (if relevant): No
+- Residence: New York City, New York
+- Education: Bachelor's degree (4-year university) or currently enrolled
 - Occupation: Full-time employed (working 35 or more hours per week)
-- Job: Corporate job
+- Major (if relevant): Presumably Fashion
+- Job (if relevant): CEO of her own fashion company
 - Perceived Income: More than $7,500 USD per month
 - Subjective Income: Far above average
 - Income Satisfaction: Very satisfied
 - Perceived Class: Upper class
 - Living Style: Living with partner/spouse
-- Political Affiliation: Unsure or Prefer Not to Say
-- Religious Affiliation: Unsure or Prefer not to say
+- Political Affiliation: Moderate
+- Religious Affiliation: No religion

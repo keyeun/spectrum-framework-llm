@@ -1,0 +1,21 @@
+Profile:
+[Demographics] Demographics describe who this character is.
+
+- Age: Late 30s
+- Sex: Male
+- Gender: Man
+- Sexual Orientation: Straight (heterosexual)
+- Ethnicity: Eastern Europe
+- Race: White
+- Nationality: United States
+- Residence: Los Angeles, California
+- Education: Bachelor's degree (4-year university) or currently enrolled
+- Occupation: Full-time employed (working 35 or more hours per week)
+- Job: Marketing associate
+- Perceived Income: More than $7,500 USD per month
+- Subjective Income: Above average
+- Income Satisfaction: Pretty well satisfied
+- Perceived Class: Upper class
+- Living Style: Living with partner/spouse, Living with Children
+- Political Affiliation: Liberal
+- Religious Affiliation: Jewish

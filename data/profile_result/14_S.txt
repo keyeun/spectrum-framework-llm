@@ -1,21 +1,24 @@
 Profile:
 [Demographics] Demographics describe who this character is.
 
-- Age: Presumably 30-40
+- Age: Presumably 18-19
 - Sex: Female
 - Gender: Woman
 - Sexual Orientation: Straight (heterosexual)
-- Ethnicity: South and Southeast Asia
-- Race: Asian (e.g., Indian, Chinese, Japanese, Korean, Singaporean)
+- Ethnicity: Western Europe
+- Race: White
+- Disability (if relevant): I do not have a disability or impairment
 - Nationality: United States
-- Residence: Los Angeles, CA
-- Education: Bachelor's degree (4-year university) or currently enrolled
-- Occupation: Full-time employed (working 35 or more hours per week)
-- Job: Model manager and owner of a modeling agency
-- Perceived Income: More than $7,500 USD per month
-- Subjective Income: Above average
-- Income Satisfaction: Very satisfied
-- Perceived Class: Upper class
-- Living Style: Living with partner/spouse
+- Dual Nationality (if relevant): No
+- Residence: Presumably New York, NY
+- Education: High school diploma/GED
+- Occupation: Self-employed (owning a business or working as a freelancer)
+- Major (if relevant): N/A
+- Job (if relevant): Fashion designer
+- Perceived Income: $5,833 to less than $7,500 USD per month
+- Subjective Income: Below average
+- Income Satisfaction: More or less satisfied
+- Perceived Class: Middle class
+- Living Style: Living alone
 - Political Affiliation: Moderate
-- Religious Affiliation: No Religion
+- Religious Affiliation: No religion
