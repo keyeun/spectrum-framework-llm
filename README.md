@@ -18,26 +18,53 @@ This repository contains the code and data for our paper titled **"SPeCtrum: A G
 
 The table below lists the characters and their corresponding IDs:
 
-| id  | title                   | character              |
-|-----|-------------------------|------------------------|
-| 0   | Breaking Bad            | Walter White           |
-| 1   | Breaking Bad            | Jesse Pinkman          |
-| 2   | Breaking Bad            | Hank Schrader          |
-| 3   | Friends                 | Phoebe Buffay          |
-| 4   | Friends                 | Chandler Bing          |
-| 5   | Gossip Girl             | Serena van der Woodsen |
-| 6   | Gossip Girl             | Blair Waldorf          |
-| 7   | Gossip Girl             | Dan Humphrey           |
-| 8   | How I Met Your Mother   | Robin Scherbatsky      |
-| 9   | How I Met Your Mother   | Barney Stinson         |
-| 10  | Modern Family           | Gloria                 |
-| 11  | Modern Family           | Mitchell Pritchett     |
-| 12  | Modern Family           | Jay Pritchett          |
-| 13  | New Girl                | Schmidt                |
-| 14  | New Girl                | Cece Parekh            |
-| 15  | New Girl                | Jess Day               |
-| 16  | The Big Bang Theory     | Leonard Hofstadter     |
-| 17  | The Big Bang Theory     | Sheldon Cooper         |
+| ID | TV Show | Character Name |
+|-------|---------|----------------|
+| 0 | The Big Bang Theory | Leonard Hofstadter |
+| 1 | The Big Bang Theory | Sheldon Cooper |
+| 2 | The Big Bang Theory | Penny |
+| 3 | The Big Bang Theory | Howard Wolowitz |
+| 4 | The Big Bang Theory | Raj Koothrappali |
+| 5 | The Big Bang Theory | Bernadette Rostenkowski |
+| 6 | The Big Bang Theory | Amy Farrah Fowler |
+| 7 | Gossip Girl | Serena van der Woodsen |
+| 8 | Gossip Girl | Dan Humphrey |
+| 9 | Gossip Girl | Blair Waldorf |
+| 10 | Gossip Girl | Chuck Bass |
+| 11 | Gossip Girl | Nate Archibald |
+| 12 | Gossip Girl | Lily van der Woodsen |
+| 13 | Gossip Girl | Rufus Humphrey |
+| 14 | Gossip Girl | Jenny Humphrey |
+| 15 | Gossip Girl | Vanessa Abrams |
+| 16 | Gossip Girl | Dorota Kishlovsky |
+| 17 | Friends | Phoebe Buffay |
+| 18 | Friends | Chandler Bing |
+| 19 | Friends | Rachel Green |
+| 20 | Friends | Monica Geller |
+| 21 | Friends | Joey Tribbiani |
+| 22 | Friends | Ross Geller |
+| 23 | Friends | Gunther |
+| 24 | How I Met Your Mother | Ted Mosby |
+| 25 | How I Met Your Mother | Marshsall Eriksen |
+| 26 | How I Met Your Mother | Robin Scherbatsky |
+| 27 | How I Met Your Mother | Barney Stinson |
+| 28 | How I Met Your Mother | Lily Aldrin |
+| 29 | Modern Family | Jay Pritchett |
+| 30 | Modern Family | Gloria Delgado-Pritchett |
+| 31 | Modern Family | Claire Dunphy |
+| 32 | Modern Family | Phil Dunphy |
+| 33 | Modern Family | Mitchell Pritchett |
+| 34 | Modern Family | Cameron Tucker |
+| 35 | Modern Family | Manny Delgado |
+| 36 | Modern Family | Luke Dunphy |
+| 37 | Modern Family | Haley Dunphy |
+| 38 | Modern Family | Alex Dunphy |
+| 39 | Modern Family | Lily Tucker-Pritchett |
+| 40 | New Girl | Jess Day |
+| 41 | New Girl | Nick Miller |
+| 42 | New Girl | Schmidt |
+| 43 | New Girl | Cece Parekh |
+| 44 | New Girl | Winston Bishop |
 
 ## Code
 - We includes functions for scoring BFI and PVQ, as well as functions utilizing the OpenAI API to output results in JSON format.
